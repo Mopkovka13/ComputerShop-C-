@@ -1,0 +1,5 @@
+3
+intel Core i3-8100;3.6;msi 282;Seagate Barracude 256GB;UHD Graphics 630;0;24990;2;rgb;no;0;
+intel Core i5-10400F;2.9;ASUS PRIME B365;Western Digital 256GB;nvidia gtx 650;0;21500;12;rgb;no;1;
+AMD Ryzen 5 3600;3.6;ASRock H110;Seagate 256GB;AMD Radeon RX 6900 XT;1;24000;4;red;water;0;
+

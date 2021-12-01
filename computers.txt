@@ -1,0 +1,9 @@
+8
+intel Core i5-11400;2.6;MSI Z370-A;Toshiba L200 HDW 256GB;nvidia RTX 3070;0;25000;10;
+intel Core i7-10700K;3.8;MSI MAG B550;Toshiba 1TB;nvidia RTX 3080 Ti;1;87500;7;
+intel Core i3-8100;3.6;msi 282;Corsar 256GB;nvidia gtx 650ti;0;32000;14;
+intel Core i5-10400F;2.9;ASUS PRIME B365;Western Digital 256GB;AMD Radeon R700;0;31000;23;
+AMD Ryzen 9 5950X;3.4;MSI Z490-A;Toshiba L200 256GB;AMD RTX A5000;0;54000;6;
+AMD Athlon 3050U;3.2;acer a511;Western Digital 256GB;nvidia gtx 650;0;21500;12;
+AMD Ryzen 5 3600X;4.4;msi super;HyperX 1TB;nvidia GTX 1650;1;74990;1;
+AMD Ryzen 5 5600X;3.7;Gigabyte GA-H110;Seagate 256GB;nvidia RTX 3090;0;28000;2;
